@@ -26,4 +26,7 @@ But rather than waiting until graduate school to get started, why not begin buil
 Through this repo, I hope to:
 * Document what I learn about embedded systems, hardware, and systems security.
 * Build hands-on projects to apply new concepts and strengthen my technical skills.
-* Explore vulnerabilities, security mechanisms, and how embedded systems 
+* Explore vulnerabilities, security mechanisms, and how embedded systems can be protected.
+* Track my progress as I work toward becoming an Embedded Systems Security Engineer.
+
+**Thanks for stopping by and checking out my journey :)**
