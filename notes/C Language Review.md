@@ -7,7 +7,8 @@ I already have a good amount of experience coding in C, but good to have a revie
 	* Assemble the compilers output into a **object file** which organizes data and machine code into a well known format to be manageable and understandable by the different tools and developer
 * Program moves through **linking** (object file --> executable) and **loading** (disk --> RAM) before CPU executes it
 	* **Linker:** takes multiple object files and merges them into a single executable file like a .exe file on Windows or an ELF file on Linux.
-		* The .o object files are **relocatable object files** --> once they ar
+		* The .o object files are **relocatable object files** --> once they are all linked into one, the file is called the **executable object file**
+			* This process is specificed in a **linker scri**
 	* **Loading:** OS reads the executable file header and sets up virtual address space for the process, allocates space in RAM for the text (code), data, and stack segments, and copies the machine bytes from storage into memory.
 
 **ELF:** An object file format used for executables, object code, shared libraires, device drivers, and core dumps on Linux or Unix-like OSs
