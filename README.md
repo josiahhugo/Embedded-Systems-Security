@@ -1,1 +1,2 @@
-trying to sync obsidian with github
+# Embedded-Systems-Security
+My journey into becoming an embedded systems security engineer
