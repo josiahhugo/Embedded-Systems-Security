@@ -41,5 +41,6 @@ Typs of scopes:
 	* variable lives through the whole program lifetime, not only in a block scope or function
 	* internal linkage: object can be used in all scopes of the current translation unit
 
-Objects declared as `static` or `extern` have static storage duration
+**Static Duration:** object or variable is allocated in memory when the program starts running and is freed only when program terminates
+
 **Linkage:** variable can be used in other scopes
