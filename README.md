@@ -11,4 +11,4 @@ As much as I enjoy coding and development, it isn't really my strong suit, nor d
 
 After my REU Summer Research Program at USF, I was heavily inspired in continuing working with hardware security/systems security. With more research into cybersecurity careers, I wanted to expand this interest into embedded systems security, which is where I am at right now in my journey :)
 
-After 
+After my undergrad, I plan on doing my masters in cyber physical systems to further expand my knowledge and help me towards my goal of becoming a embedded systems security engineer. 
