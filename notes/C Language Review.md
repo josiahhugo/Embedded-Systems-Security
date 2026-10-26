@@ -21,7 +21,8 @@ Build Process (compile, assemble, and link):
 * Ex: `int count = 10;` --> memory is allocated to store the integer 10 is an object
 
 **Identifier:** Name assigned by a programmer to program an element such as a variable, function, array, structure, or label
-	Ex: `int total_score = 95;` where `total_score` is the identifier
+* Ex: `int total_score = 95;` where `total_score` is the identifier
+* Can only be used in the scope it is visible and often it is even destroyed when its scope ends
 
 **Scope:** Region or portion of the source code where a declared identifier is valid and can be accessed to refer to its entity
 * Is an implicit property of an identifier
