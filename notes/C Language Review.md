@@ -32,3 +32,6 @@ Typs of scopes:
 * **Block scope**: Identifier is declared inside a compound statement like a function body, `if` statement or `loop` and is only accessible from its point of declaration
 * **File scope**: Identifier is declared outside of any functions or block and is visible from its point of declaration to the end of the translation unit (source file)
 * **Function scope**: Applies strictly to labels which are visible anywhere inside the function they are declared in, regardless of block nesting 
+
+
+**Storage Class:** can be changed to influence the visibility and lifetime of an object
