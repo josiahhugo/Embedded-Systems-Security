@@ -3,7 +3,7 @@ I already have a good amount of experience and knowledge with the language C/C++
 # Compile, Assemble, and Link
 Build Process (compile, assemble, and link):
 * **Compiler** converts high-language language (.c files) to assembly
-	* translate one **translation  unit** (e.g., a c file) to assembly
+	* translate one **translation unit** (e.g., a c file) to assembly
 * **Assembler** converts assembly (.s files) to machine code (binary)
 	* Assemble the compilers output into a **object file** which organizes data and machine code into a well known format to be manageable and understandable by the different tools and developer
 * Program moves through **linking** (object file --> executable) and **loading** (disk --> RAM) before CPU executes it
@@ -17,3 +17,4 @@ Build Process (compile, assemble, and link):
 
 # Objects and Identifiers 
 **Object:** Region of data storage
+* Have different properties that 
