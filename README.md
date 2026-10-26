@@ -10,4 +10,8 @@ Hello! I am currently a senior Computer Science student at the University of Nor
 
 While I enjoy coding and software development, I realized that pursuing a traditional software development career isn't exactly what I want to do. Instead, I found myself much more interested in making systems secure. 
 
-Cybersecurity, however, is such a broad field. For a long time, I wasn't really sure which di
+Cybersecurity, however, is such a broad field. For a long time, I wasn't really sure which direction I wanted to take.
+
+That changed during my NSF REU at the University of South Florida, where I had the opportunity to explore hardware and systems security. That experience relay sparked my interest in understanding security at a deeper, more technical level. 
+
+After more research into different cybersecurity career paths, I disc
