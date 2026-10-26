@@ -1,8 +1,9 @@
-# My Journey into Embe
-My journey into becoming an embedded systems security engineer!
+# My Journey into Embedded Systems Security
+Welcome to my journey towards becoming an **Embedded Systems Security Engineer**!
 
-This repo will contain notes and personal projects.
+This repo will serve as a place to document my learning process, share notes, and showcase personal projects as I explore this field. 
 
+I am still learning, so feel free to follow along and learn alongside me :)
 
 # ABOUT ME
 Hello! I am a senior computer science student at the University of North Texas with a specialization/focus on cybersecurity.
