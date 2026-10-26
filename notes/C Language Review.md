@@ -1,7 +1,7 @@
 I already have a good amount of experience coding in C, but good to have a review and learn how to use it with embedded systems.
 
-# C Language: General Terms and Concepts
-Build Process:
+# Compile, Assemble, and Link
+Build Process (compile, assemble, and link):
 * **Compiler** converts high-language language (.c files) to assembly
 	* translate one **translation  unit** (e.g., a c file) to assembly
 * **Assembler** converts assembly (.s files) to machine code (binary)
@@ -15,3 +15,4 @@ Build Process:
 **ELF:** An object file format used for executables, object code, shared libraires, device drivers, and core dumps on Linux or Unix-like OSs. The format of the executable object file is also ELF.
 * To execute, Linux Kernel uses a **ELF loader** that reads and loads the ELF you want to execute into memory.
 
+# Objects and Identifiers 
