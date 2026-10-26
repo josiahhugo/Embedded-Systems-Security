@@ -16,8 +16,9 @@ Build Process (compile, assemble, and link):
 * To execute, Linux Kernel uses a **ELF loader** that reads and loads the ELF you want to execute into memory.
 
 # Objects and Identifiers 
-**Object:** Region of data storage
+**Object:** Region of data storage -- piece of memory that holds a value(s)
 * Have different properties that influence how they are handled during the build process.
+* Ex: int
 
 Objects as functions, enums, structs, etc. are denoted by a **identifier** --> has a **scope** which is the portion of source it is **visible**
 Typs of scopes:
