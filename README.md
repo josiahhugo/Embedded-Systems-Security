@@ -19,4 +19,11 @@ After more research into different cybersecurity career paths, I discovered embe
 And that's where I am today!
 
 # GOALS
-After completing my undergraduate degree, I plan on pursuing a master's degree focused on cyber-physical systems secrity to further develop my knowledge and technical skills. 
+After completing my undergraduate degree, I plan on pursuing a master's degree focused on cyber-physical systems security to further develop my knowledge and technical skills. 
+
+But rather than waiting until graduate school to get started, why not begin building that foundation now!
+
+Through this repo, I hope to:
+* Document what I learn about embedded systems, hardware, and systems security.
+* Build hands-on projects to apply new concepts and strengthen my technical skills.
+* Explore vulnerabilities, security mechanisms, and how embedded systems 
