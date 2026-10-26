@@ -1,4 +1,4 @@
-I already have a good amount of experience coding in C, but good to have a review and learn how to use it with embedded systems.
+I already have a good amount of experience and knowledge with the language C/C++, but good to have a review and learn how to use it with embedded systems.
 
 # Compile, Assemble, and Link
 Build Process (compile, assemble, and link):
@@ -16,3 +16,4 @@ Build Process (compile, assemble, and link):
 * To execute, Linux Kernel uses a **ELF loader** that reads and loads the ELF you want to execute into memory.
 
 # Objects and Identifiers 
+**Object:** Region of data storage
