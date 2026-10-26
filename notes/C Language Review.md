@@ -12,5 +12,5 @@ I already have a good amount of experience coding in C, but good to have a revie
 	* **Loading:** OS reads the executable file header and sets up virtual address space for the process, allocates space in RAM for the text (code), data, and stack segments, and copies the machine bytes from storage into memory.
 
 **ELF:** An object file format used for executables, object code, shared libraires, device drivers, and core dumps on Linux or Unix-like OSs. The format of the executable object file is also ELF.
-* To ex
+* To execute, Linux Kernel uses a **ELF loader** that reads and loads the ELF you want to execute into memory.
 
