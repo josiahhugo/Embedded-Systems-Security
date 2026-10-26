@@ -19,4 +19,8 @@ Build Process (compile, assemble, and link):
 **Object:** Region of data storage
 * Have different properties that influence how they are handled during the build process.
 
-Objects as functions, enums, structs, etc. are denoted by a **identifier** --> has a **scope**
+Objects as functions, enums, structs, etc. are denoted by a **identifier** --> has a **scope** which is the portion of source it is **visible**
+Typs of scopes:
+* Block scope
+* File scope
+* Function scope
