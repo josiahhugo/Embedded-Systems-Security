@@ -20,6 +20,9 @@ Build Process (compile, assemble, and link):
 * Have different properties that influence how they are handled during the build process.
 * Ex: `int count = 10;` --> memory is allocated to store the integer 10 is an object
 
+**Identifier:** Name assigned by a programmer to program an element such as a variable, function, array, structure, or label
+	Ex: `int total_score = 95;` where `total_score` is the identifi
+
 Objects as functions, enums, structs, etc. are denoted by a **identifier** --> has a **scope** which is the portion of source it is **visible**
 Typs of scopes:
 * Block scope
