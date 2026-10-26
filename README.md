@@ -14,4 +14,9 @@ Cybersecurity, however, is such a broad field. For a long time, I wasn't really 
 
 That changed during my NSF REU at the University of South Florida, where I had the opportunity to explore hardware and systems security. That experience relay sparked my interest in understanding security at a deeper, more technical level. 
 
-After more research into different cybersecurity career paths, I disc
+After more research into different cybersecurity career paths, I discovered embedded systems security, a field that combines my interests in hardware, software, and cybersecurity.
+
+And that's where I am today!
+
+# GOALS
+After completing my undergraduate degree, I plan on pursuing a master's degree focused on cyber-physical systems secrity to further develop my knowledge and technical skills. 
