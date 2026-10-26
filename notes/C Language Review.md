@@ -38,3 +38,6 @@ Typs of scopes:
 * **Extern**: external linkage, static duration
 * **Static**: internal linkage, static duration
 	* variable lives through the whole program lifetime, not only in a block scope or function
+
+Objects declared as `static` or `extern` have static storage duration
+**Linkage:** variable can be used in o
