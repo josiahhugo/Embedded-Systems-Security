@@ -27,6 +27,6 @@ Build Process (compile, assemble, and link):
 
 Objects as functions, enums, structs, etc. are denoted by a **identifier** --> has a **scope** which is the portion of source it is **visible**
 Typs of scopes:
-* Block scope
-* File scope
+* Block scope: Identifier is declared inside a compound statement like a function body, `if` statement or loop and is only accessible from its point of declaration
+* File scope: Applies strictly to labels which are visible anywhere inside the function they are declared in, reg
 * Function scope
