@@ -1,0 +1,1 @@
+trying to sync obsidian with github
