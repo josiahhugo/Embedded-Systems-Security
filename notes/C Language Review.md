@@ -17,4 +17,6 @@ Build Process (compile, assemble, and link):
 
 # Objects and Identifiers 
 **Object:** Region of data storage
-* Have different properties that 
+* Have different properties that influence how they are handled during the build process.
+
+Objects as functions, enums, structs, etc. are denoted by a **identifier** --> has a **scope**
