@@ -36,8 +36,10 @@ Typs of scopes:
 
 **Storage Class:** can be changed to influence the visibility and lifetime of an object. There are 2 specifiers that influence 2 properties (linkage and storage duration):
 * **Extern**: external linkage, static duration
+	* external linkage: variable can be used from scopes in other translation units
 * **Static**: internal linkage, static duration
 	* variable lives through the whole program lifetime, not only in a block scope or function
+	* internal linkage: object can be used in all scopes of the current translation unit
 
 Objects declared as `static` or `extern` have static storage duration
 **Linkage:** variable can be used in other scopes
