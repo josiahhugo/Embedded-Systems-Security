@@ -24,9 +24,10 @@ Build Process (compile, assemble, and link):
 	Ex: `int total_score = 95;` where `total_score` is the identifier
 
 **Scope:** Region or portion of the source code where a declared identifier is valid and can be accessed to refer to its entity
+* Is an implicit property of an identifier
 
 Objects as functions, enums, structs, etc. are denoted by a **identifier** --> has a **scope** which is the portion of source it is **visible**
 Typs of scopes:
-* **Block scope**: Identifier is declared inside a compound statement like a function body, `if` statement or loop and is only accessible from its point of declaration
+* **Block scope**: Identifier is declared inside a compound statement like a function body, `if` statement or `loop` and is only accessible from its point of declaration
 * **File scope**: Identifier is declared outside of any functions or block and is visible from its point of declaration to the end of the translation unit (source file)
 * **Function scope**: Applies strictly to labels which are visible anywhere inside the function they are declared in, regardless of block nesting 
