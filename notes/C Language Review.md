@@ -18,7 +18,7 @@ Build Process (compile, assemble, and link):
 # Objects and Identifiers 
 **Object:** Region of data storage -- piece of memory that holds a value(s)
 * Have different properties that influence how they are handled during the build process.
-* Ex: int
+* Ex: `int count = 10;` --> memory is allocated to store the integer 10 is an object
 
 Objects as functions, enums, structs, etc. are denoted by a **identifier** --> has a **scope** which is the portion of source it is **visible**
 Typs of scopes:
