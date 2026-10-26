@@ -37,3 +37,4 @@ Typs of scopes:
 **Storage Class:** can be changed to influence the visibility and lifetime of an object. There are 2 specifiers that influence 2 properties (linkage and storage duration):
 * **Extern**: external linkage, static duration
 * **Static**: internal linkage, static duration
+	* variable lives through the whole program lifetime, not only in a block scope or function
