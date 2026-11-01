@@ -46,12 +46,12 @@ Typs of scopes:
 **Linkage:** variable can be used in other scopes
 
 Identifiers can be in 3 states:
-* Declared: Introduces name and type of an identifier to the compiler 
+* Declared: Introduces name and type of an identifier to the compiler without necessarily allocating memory or reserving storage for it
 	* ex: `int a;`  
 	    `struct myStruct;` 
-* Defined
+* Defined: allocates actual storage or memory in the computer for the identifier based on its data type
 	* ex: `int a;` 
 		`struct myStruct {...};`
-* Initialized 
+* Initialized: it is a definition combined with the assignment of a starting (initial) value at the moment it is created
 	* ex: `a = 1;` 
 		`myStruct = {...};`
