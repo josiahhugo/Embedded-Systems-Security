@@ -57,3 +57,4 @@ Identifiers can be in 3 states:
 		`myStruct = {...};`
 
 # Compiler, Assembler and Linker
+**Section:** range of addresses in a memory region
