@@ -47,6 +47,10 @@ Typs of scopes:
 
 Identifiers can be in 3 states:
 * Declared
-	* ex: `int a;` or `st` 
+	* ex: `int a;`  
+	    `struct myStruct;` 
 * Defined
+	* ex: `int a;` 
+	*`struct myStruct {...};`
 * Initialized 
+	* ex: `a = 1;` or `myStruct = {...};`
