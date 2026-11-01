@@ -85,3 +85,6 @@ Identifiers can be in 3 states:
 		`.text` 
 
 # ELF
+Life of an ELF file consists of 2 important tasks:
+* Structure data and machine code during the build process --> important in the linking step of the building process
+* Structure data and machine code for execution
