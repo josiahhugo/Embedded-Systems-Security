@@ -66,3 +66,4 @@ Identifiers can be in 3 states:
 * **Output sections**: output to executable object file
 
 **Linker Script:** when sections from the object file are joined into which sections of the executable 
+
