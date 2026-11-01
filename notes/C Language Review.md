@@ -68,6 +68,6 @@ Identifiers can be in 3 states:
 **Linker Script:** when sections from the object file are joined into which sections of the executable 
 
 **Symbols:** Used as an umbrella term for different kind of symbols:
-* Directive: 
-* Assembly Instructions
+* Directive: (Pseudo-Instruction) Commands written in assembly code that give instructions directly to the assembler rather than the CPU.
+* Assembly Instructions: (Machine Instructions) Low-level commands that correspond directly to native machine code execu
 * Labels
