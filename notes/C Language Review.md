@@ -59,4 +59,6 @@ Identifiers can be in 3 states:
 # Compiler, Assembler and Linker
 **Section:** range of addresses in a memory region
 * Used on both relocatable object file and executable object file level
-* all machine code an
+* all machine code and data from one translation unit ends in sections of the relocatable object file
+
+**Link Step:** (when executable object file is linked) these input sections (input from relocatable object files) are joined into output sections (output to executable object file)
