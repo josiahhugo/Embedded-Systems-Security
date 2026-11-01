@@ -61,4 +61,6 @@ Identifiers can be in 3 states:
 * Used on both relocatable object file and executable object file level
 * all machine code and data from one translation unit ends in sections of the relocatable object file
 
-**Link Step:** (when executable object file is linked) these input sections (input from relocatable object files) are joined into output sections (output to executable object file)
+**Link Step:** When executable object file is linked
+* Input sections: Input from relocatable object files are joined into...
+* Output sections
