@@ -70,5 +70,9 @@ Identifiers can be in 3 states:
 **Symbols:** Used as an umbrella term for different kind of symbols:
 * **Directive**: (Pseudo-Instruction) Commands written in assembly code that give instructions directly to the assembler rather than the CPU.
 	* determined by "." in front of a symbol
+	* ex: `.word variable 1`
 * **Assembly Instructions**: (Machine Instructions) Low-level commands that correspond directly to native machine code executed by the processor (CPU)
+	* ex: `R1, #1`
 * **Labels**: User-defined text identifiers placed at specific lines or memory addresses in the code
+	* determined by ":" following a symbol
+	* ex: `label1:`
