@@ -65,4 +65,4 @@ Identifiers can be in 3 states:
 * **Input sections**: Input from relocatable object files are joined into...
 * **Output sections**: output to executable object file
 
-**Linker Script:** when sections from the object file are joined into which sections of the executable is defined in the linker script
+**Linker Script:** when sections from the object file are joined into which sections of the executable 
