@@ -67,3 +67,7 @@ Identifiers can be in 3 states:
 
 **Linker Script:** when sections from the object file are joined into which sections of the executable 
 
+**Symbols:** Used as an umbrella term for different kind of symbols:
+* Directive
+* Assembly Instructions
+* Labels
