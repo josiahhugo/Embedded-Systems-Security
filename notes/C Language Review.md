@@ -75,4 +75,6 @@ Identifiers can be in 3 states:
 	* ex: `R1, #1`
 * **Labels**: User-defined text identifiers placed at specific lines or memory addresses in the code
 	* determined by ":" following a symbol
-	* ex: `label1:`
+	* ex: `label1: `
+
+**Statements:** Consist of an optional label and a directive or an assembler instruction
