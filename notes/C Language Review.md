@@ -63,4 +63,6 @@ Identifiers can be in 3 states:
 
 **Link Step:** When executable object file is linked
 * Input sections: Input from relocatable object files are joined into...
-* Output sections
+* Output sections: output to executable object file
+
+**Linker Script:**
