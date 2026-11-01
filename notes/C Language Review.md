@@ -79,4 +79,9 @@ Identifiers can be in 3 states:
 
 **Statements:** Consist of an optional label and a directive or an assembler instruction
 * ex: `myLabel:
-	     `ADD X1, X2`
+	    `ADD X1, X2`
+	or
+	`myLabel:
+		`.text` 
+
+# ELF
