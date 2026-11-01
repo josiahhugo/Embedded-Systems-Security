@@ -44,3 +44,9 @@ Typs of scopes:
 **Static Duration:** object or variable is allocated in memory when the program starts running and is freed only when program terminates --> variable that lives through the whole program 
 
 **Linkage:** variable can be used in other scopes
+
+Identifiers can be in 3 states:
+* Declared
+	* ex: `int a;` or `st` 
+* Defined
+* Initialized 
